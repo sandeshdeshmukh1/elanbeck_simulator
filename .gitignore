@@ -1,0 +1,9 @@
+/backend/env
+/backend/app/sql_app.db
+/frontend/node_modules
+/frontend/yarn.lock
+__pycache__/
+.env
+/frontend/build
+*.log
+.mypy_cache
